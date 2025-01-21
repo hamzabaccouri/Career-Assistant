@@ -1,0 +1,158 @@
+2025-01-20 00:12:33,195 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:12:33,466 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:12:33,467 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:12:33,496 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:12:33,500 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:12:33,528 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:13:07,972 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\HB_data.docx
+2025-01-20 00:13:08,017 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\HB_data.docx
+2025-01-20 00:13:56,053 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:13:56,340 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:24:28,316 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:24:28,619 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:24:28,622 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:24:28,648 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:24:28,651 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:24:28,688 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:25:00,113 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\HB_data.docx
+2025-01-20 00:25:00,155 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\HB_data.docx
+2025-01-20 00:25:45,272 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:25:45,657 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:32:11,177 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:32:11,560 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:32:11,561 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:32:11,596 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:32:11,598 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:32:11,633 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:32:54,401 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\HB_data.docx
+2025-01-20 00:32:54,459 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\HB_data.docx
+2025-01-20 00:33:41,377 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:33:41,806 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:36:46,304 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:36:46,591 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:36:46,593 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:36:46,620 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:36:46,623 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:36:46,650 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Hamza_Baccouri.docx
+2025-01-20 00:39:44,148 - DocumentProcessor - INFO - Processing DOCX: C:\Users\Hamza El Baccouri\Career-agents\test_files\HB_data.docx
+2025-01-20 00:39:44,185 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\HB_data.docx
+2025-01-20 00:42:53,040 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 00:42:53,326 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:48:48,257 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:48:48,257 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:48:48,535 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:48:48,535 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:53:45,746 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:53:45,746 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:53:45,746 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:53:45,981 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:53:45,981 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:53:45,981 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,459 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,459 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,459 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,459 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,459 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,711 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,711 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,711 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,711 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 10:59:13,711 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:49,359 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:49,359 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:49,359 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:49,359 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:49,359 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:49,359 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:50,433 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:50,433 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:50,433 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:50,433 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:50,433 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:00:50,433 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,023 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,023 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,023 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,023 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,023 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,023 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,023 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,319 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,319 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,319 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,319 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,319 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,319 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:01:55,319 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,463 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,463 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,463 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,463 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,463 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,463 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,463 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,463 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,726 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,726 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,726 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,726 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,726 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,726 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,726 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:02:26,726 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:05,961 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:06,409 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,133 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:04:43,391 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:12:38,128 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:12:38,128 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:12:38,436 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:12:38,436 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:06,196 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:06,196 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:06,196 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:06,541 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:06,541 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:06,541 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:54,331 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:54,331 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:54,331 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:54,331 - DocumentProcessor - INFO - Processing PDF: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:54,631 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:54,631 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:54,631 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf
+2025-01-20 11:13:54,631 - DocumentProcessor - INFO - Successfully processed document: temp_CV_Data_Scientist_Hamza.pdf

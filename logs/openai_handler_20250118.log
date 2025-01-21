@@ -1,0 +1,219 @@
+2025-01-18 00:27:21,629 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:25,598 - OpenAIHandler - INFO - Successfully got completion for prompt: Analyze the following CV content and provide structured feedback. Focus on key skills, experience, a...
+2025-01-18 00:27:25,632 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:25,632 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:26,909 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt...
+2025-01-18 00:27:26,909 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt...
+2025-01-18 00:27:26,982 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:26,982 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:26,982 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:27,595 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt
+
+Please provide the response in the following JSON format: {
+  "test": "string"
+}...
+2025-01-18 00:27:27,595 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt
+
+Please provide the response in the following JSON format: {
+  "test": "string"
+}...
+2025-01-18 00:27:27,595 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt
+
+Please provide the response in the following JSON format: {
+  "test": "string"
+}...
+2025-01-18 00:27:27,606 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:27,606 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:27,606 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:27,606 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:27:29,819 - OpenAIHandler - INFO - Successfully got completion for prompt: Compare the following CV against the job description and provide matching analysis.
+
+CV:
+
+        Se...
+2025-01-18 00:27:29,819 - OpenAIHandler - INFO - Successfully got completion for prompt: Compare the following CV against the job description and provide matching analysis.
+
+CV:
+
+        Se...
+2025-01-18 00:27:29,819 - OpenAIHandler - INFO - Successfully got completion for prompt: Compare the following CV against the job description and provide matching analysis.
+
+CV:
+
+        Se...
+2025-01-18 00:27:29,819 - OpenAIHandler - INFO - Successfully got completion for prompt: Compare the following CV against the job description and provide matching analysis.
+
+CV:
+
+        Se...
+2025-01-18 00:27:29,820 - OpenAIHandler - ERROR - Failed to parse JSON response
+2025-01-18 00:27:29,820 - OpenAIHandler - ERROR - Failed to parse JSON response
+2025-01-18 00:27:29,820 - OpenAIHandler - ERROR - Failed to parse JSON response
+2025-01-18 00:27:29,820 - OpenAIHandler - ERROR - Failed to parse JSON response
+2025-01-18 00:27:29,820 - OpenAIHandler - ERROR - Error getting structured completion: Invalid JSON response from model
+2025-01-18 00:27:29,820 - OpenAIHandler - ERROR - Error getting structured completion: Invalid JSON response from model
+2025-01-18 00:27:29,820 - OpenAIHandler - ERROR - Error getting structured completion: Invalid JSON response from model
+2025-01-18 00:27:29,820 - OpenAIHandler - ERROR - Error getting structured completion: Invalid JSON response from model
+2025-01-18 00:29:49,539 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,541 - OpenAIHandler - INFO - Successfully got completion for prompt: Analyze the following CV content and provide structured feedback. Focus on key skills, experience, a...
+2025-01-18 00:29:49,556 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,556 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,556 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt...
+2025-01-18 00:29:49,556 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt...
+2025-01-18 00:29:49,570 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,570 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,570 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,570 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt
+
+Please provide the response in the following JSON format: {
+  "test": "string"
+}...
+2025-01-18 00:29:49,570 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt
+
+Please provide the response in the following JSON format: {
+  "test": "string"
+}...
+2025-01-18 00:29:49,570 - OpenAIHandler - INFO - Successfully got completion for prompt: Test prompt
+
+Please provide the response in the following JSON format: {
+  "test": "string"
+}...
+2025-01-18 00:29:49,583 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,583 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,583 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,583 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 00:29:49,584 - OpenAIHandler - INFO - Successfully got completion for prompt: Compare the following CV against the job description and provide matching analysis.
+
+CV:
+
+        Se...
+2025-01-18 00:29:49,584 - OpenAIHandler - INFO - Successfully got completion for prompt: Compare the following CV against the job description and provide matching analysis.
+
+CV:
+
+        Se...
+2025-01-18 00:29:49,584 - OpenAIHandler - INFO - Successfully got completion for prompt: Compare the following CV against the job description and provide matching analysis.
+
+CV:
+
+        Se...
+2025-01-18 00:29:49,584 - OpenAIHandler - INFO - Successfully got completion for prompt: Compare the following CV against the job description and provide matching analysis.
+
+CV:
+
+        Se...
+2025-01-18 16:42:46,257 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:46,774 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:46,774 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:47,269 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:47,269 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:47,269 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:47,765 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:47,765 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:47,765 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:47,765 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,268 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,268 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,268 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,268 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,268 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,766 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,766 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,766 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,766 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,766 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 16:42:48,766 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:01:41,127 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:01:41,654 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:01:41,654 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:01:42,159 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:01:42,159 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:01:42,159 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:42,558 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:43,095 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:43,095 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:43,686 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:43,686 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:43,686 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:44,234 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:44,234 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:44,234 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:20:44,234 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:22,076 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:22,633 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:22,633 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:23,147 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:23,147 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:23,147 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:23,662 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:23,662 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:23,662 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:23,662 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,166 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,166 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,166 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,166 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,166 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,664 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,664 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,664 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,664 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,664 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:24,664 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,176 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,176 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,176 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,176 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,176 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,176 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,176 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,675 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,675 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,675 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,675 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,675 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,675 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,675 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:25,675 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,181 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:26,727 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,237 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini
+2025-01-18 17:30:27,747 - OpenAIHandler - INFO - Initialized OpenAI handler with model: gpt-4o-mini

@@ -1,0 +1,100 @@
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,245 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,247 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,249 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,251 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:02:46,253 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,267 - ATSRules - INFO - Validating structure with sections: ['skills', 'projects', 'experience']
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,269 - ATSRules - WARNING - Missing required section: education
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,271 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: education']
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,273 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-19 23:03:08,276 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []

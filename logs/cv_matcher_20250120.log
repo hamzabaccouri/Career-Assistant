@@ -1,0 +1,2240 @@
+2025-01-20 00:05:01,219 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:02,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:02,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:05,409 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:05,409 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:05,409 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:08,587 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:08,587 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:08,587 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:08,587 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:12,772 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:12,772 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:12,772 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:12,772 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:05:12,772 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:21,624 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:23,207 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:23,207 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:25,814 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:25,814 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:25,814 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:29,015 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:29,015 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:29,015 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:29,015 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:33,190 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:33,190 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:33,190 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:33,190 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:33,190 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:12:49,329 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:12:49,329 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:12:49,329 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:12:49,329 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:12:49,329 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:13:07,967 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:13:07,967 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:13:07,967 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:13:07,967 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:13:07,967 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:13:07,968 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:07,968 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:07,968 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:07,968 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:07,968 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:31,533 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:13:31,533 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:13:31,533 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:13:31,533 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:13:31,533 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:13:56,046 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:56,046 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:56,046 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:56,046 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:13:56,046 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:14:22,573 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:14:22,573 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:14:22,573 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:14:22,573 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:14:22,573 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:14:48,315 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:14:48,315 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:14:48,315 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:14:48,315 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:14:48,315 - CVMatcher - ERROR - Error during CV matching: 'CVMatcher' object has no attribute '_calculate_education_match'
+2025-01-20 00:24:15,164 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:16,800 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:16,800 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:20,147 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:20,147 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:20,147 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:23,658 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:23,658 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:23,658 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:23,658 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:28,312 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:28,312 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:28,312 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:28,312 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:28,312 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:24:44,280 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:24:44,280 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:24:44,280 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:24:44,280 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:24:44,280 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:25:00,108 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:25:00,108 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:25:00,108 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:25:00,108 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:25:00,108 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:25:00,109 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:00,109 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:00,109 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:00,109 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:00,109 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:21,182 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:25:21,182 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:25:21,182 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:25:21,182 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:25:21,182 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:25:45,269 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:45,269 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:45,269 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:45,269 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:25:45,269 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:26:08,943 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:26:08,943 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:26:08,943 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:26:08,943 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:26:08,943 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:26:34,728 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:26:34,728 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:26:34,728 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:26:34,728 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:26:34,728 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:31:58,198 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:31:59,804 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:31:59,804 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:03,251 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:03,251 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:03,251 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:06,609 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:06,609 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:06,609 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:06,609 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:11,175 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:11,175 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:11,175 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:11,175 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:11,175 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:32:38,868 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:32:38,868 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:32:38,868 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:32:38,868 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:32:38,868 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:32:54,396 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:32:54,396 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:32:54,396 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:32:54,396 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:32:54,396 - CVMatcher - ERROR - Error calculating experience match: invalid literal for int() with base 10: ''
+2025-01-20 00:32:54,397 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:32:54,397 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:32:54,397 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:32:54,397 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:32:54,397 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:33:18,951 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:33:18,951 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:33:18,951 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:33:18,951 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:33:18,951 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:33:41,374 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:33:41,374 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:33:41,374 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:33:41,374 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:33:41,374 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:34:08,691 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:34:08,691 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:34:08,691 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:34:08,691 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:34:08,691 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:34:37,787 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:34:37,787 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:34:37,787 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:34:37,787 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:34:37,787 - CVMatcher - ERROR - Error during CV matching: '>' not supported between instances of 'str' and 'int'
+2025-01-20 00:36:32,287 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:34,303 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:34,303 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:38,136 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:38,136 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:38,136 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:41,793 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:41,793 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:41,793 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:41,793 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:46,297 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:46,297 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:46,297 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:46,297 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:36:46,297 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 00:37:01,463 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:01,463 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:01,463 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:01,463 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:01,463 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:23,558 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:23,558 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:23,558 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:23,558 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:23,558 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:23,559 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:23,559 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:23,559 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:23,559 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:23,559 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:39,048 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:39,048 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:39,048 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:39,048 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:39,048 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:37:56,787 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:56,787 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:56,787 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:56,787 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:37:56,787 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:38:22,755 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:38:22,755 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:38:22,755 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:38:22,755 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:38:22,755 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:38:25,969 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:38:25,969 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:38:25,969 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:38:25,969 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:38:25,969 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:38:48,658 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:38:48,658 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:38:48,658 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:38:48,658 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:38:48,658 - CVMatcher - INFO - Match analysis completed with score: 12.0
+2025-01-20 00:40:08,539 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:08,539 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:08,539 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:08,539 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:08,539 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:33,177 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:40:33,177 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:40:33,177 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:40:33,177 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:40:33,177 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:40:33,178 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:33,178 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:33,178 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:33,178 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:40:33,178 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:00,382 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:00,382 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:00,382 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:00,382 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:00,382 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:13,623 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:13,623 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:13,623 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:13,623 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:13,623 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:35,799 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:35,799 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:35,799 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:35,799 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:35,799 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:41:38,322 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:38,322 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:38,322 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:38,322 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:41:38,322 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:42:01,527 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:42:01,527 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:42:01,527 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:42:01,527 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:42:01,527 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:43:17,790 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:17,790 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:17,790 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:17,790 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:17,790 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:44,065 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:43:44,065 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:43:44,065 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:43:44,065 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:43:44,065 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:43:44,066 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:44,066 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:44,066 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:44,066 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:43:44,066 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:09,773 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:44:09,773 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:44:09,773 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:44:09,773 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:44:09,773 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:44:25,660 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:25,660 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:25,660 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:25,660 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:25,660 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:47,741 - CVMatcher - INFO - Match analysis completed with score: 30.0
+2025-01-20 00:44:47,741 - CVMatcher - INFO - Match analysis completed with score: 30.0
+2025-01-20 00:44:47,741 - CVMatcher - INFO - Match analysis completed with score: 30.0
+2025-01-20 00:44:47,741 - CVMatcher - INFO - Match analysis completed with score: 30.0
+2025-01-20 00:44:47,741 - CVMatcher - INFO - Match analysis completed with score: 30.0
+2025-01-20 00:44:50,449 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:50,449 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:50,449 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:50,449 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:44:50,449 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 00:45:22,700 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:45:22,700 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:45:22,700 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:45:22,700 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 00:45:22,700 - CVMatcher - INFO - Match analysis completed with score: 42.0
+2025-01-20 10:47:58,202 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:00,977 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:00,977 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:03,669 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:03,669 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:03,669 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:06,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:06,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:06,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:06,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:11,238 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:11,238 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:11,238 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:11,238 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:11,238 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:31,802 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:31,802 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:31,802 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:31,802 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:31,802 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:31,802 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:34,557 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:34,557 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:34,557 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:34,557 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:34,557 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:34,557 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:34,557 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:37,488 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:37,488 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:37,488 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:37,488 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:37,488 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:37,488 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:37,488 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:37,488 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:42,211 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:48:48,253 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:33,533 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:36,052 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:38,578 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:41,692 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:53:45,742 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:17,261 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,073 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:54:47,077 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:19,621 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:55:49,019 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:15,762 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:24,014 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:56:51,710 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:55,895 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:56,002 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,620 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:58:59,730 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,217 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:03,317 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,563 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:07,644 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,298 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:13,454 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:22,485 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 10:59:52,439 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:34,314 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:37,162 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:39,930 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:43,789 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:00:49,352 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:42,664 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:45,233 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:47,833 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:50,933 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:01:55,019 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:14,012 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:16,606 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:19,193 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:22,288 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,458 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:26,744 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:02:58,009 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:19,934 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:45,447 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:52,375 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:55,388 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:03:58,222 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:01,434 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:05,938 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:28,826 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:31,786 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:35,166 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:38,810 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:04:43,127 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:11:51,202 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:11:54,776 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:11:54,776 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:11:57,774 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:11:57,774 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:11:57,774 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:01,268 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:01,268 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:01,268 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:01,268 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:05,854 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:05,854 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:05,854 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:05,854 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:05,854 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:24,125 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:24,125 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:24,125 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:24,125 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:24,125 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:24,125 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:26,876 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:26,876 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:26,876 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:26,876 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:26,876 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:26,876 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:26,876 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:29,818 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:29,818 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:29,818 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:29,818 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:29,818 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:29,818 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:29,818 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:29,818 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:33,368 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:38,123 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:50,932 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:54,290 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:12:57,646 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:01,424 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:06,192 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:35,744 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:38,332 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:41,234 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:47,962 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:13:54,324 - CVMatcher - INFO - CV Matcher initialized successfully
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:14:25,107 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:03,165 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:36,786 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:15:57,522 - CVMatcher - INFO - Starting CV matching process
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0
+2025-01-20 11:16:20,249 - CVMatcher - INFO - Match analysis completed with score: 50.0

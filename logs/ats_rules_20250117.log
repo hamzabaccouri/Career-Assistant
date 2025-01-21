@@ -1,0 +1,35 @@
+2025-01-17 22:35:25,152 - ATSRules - INFO - Validating format: .pdf, size: 5MB
+2025-01-17 22:35:25,153 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,153 - ATSRules - INFO - Validating format: .docx, size: 5MB
+2025-01-17 22:35:25,153 - ATSRules - INFO - Format validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,153 - ATSRules - INFO - Validating format: .jpg, size: 5MB
+2025-01-17 22:35:25,153 - ATSRules - INFO - Format validation completed. Valid: False, Issues: ['Unsupported format. Use .pdf, .docx']
+2025-01-17 22:35:25,153 - ATSRules - INFO - Validating format: .pdf, size: 15MB
+2025-01-17 22:35:25,153 - ATSRules - INFO - Format validation completed. Valid: False, Issues: ['File too large. Maximum size is 10MB']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Contact Information', 'Professional Experience', 'Education', 'Technical Skills']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Contact Information', 'Professional Experience', 'Education', 'Technical Skills']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Contact Information', 'Professional Experience', 'Education', 'Technical Skills']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Personal Information', 'Work History', 'Academic Background', 'Core Competencies']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Personal Information', 'Work History', 'Academic Background', 'Core Competencies']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Personal Information', 'Work History', 'Academic Background', 'Core Competencies']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Contact Information', 'Education']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Contact Information', 'Education']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['Contact Information', 'Education']
+2025-01-17 22:35:25,155 - ATSRules - WARNING - Missing required section: skills
+2025-01-17 22:35:25,155 - ATSRules - WARNING - Missing required section: skills
+2025-01-17 22:35:25,155 - ATSRules - WARNING - Missing required section: skills
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: skills']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: skills']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: False, Issues: ['Missing required section: skills']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['CONTACT INFORMATION', 'Professional experience', 'Education', 'SKILLS']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['CONTACT INFORMATION', 'Professional experience', 'Education', 'SKILLS']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Validating structure with sections: ['CONTACT INFORMATION', 'Professional experience', 'Education', 'SKILLS']
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []
+2025-01-17 22:35:25,155 - ATSRules - INFO - Structure validation completed. Valid: True, Issues: []

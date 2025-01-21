@@ -1,0 +1,381 @@
+2025-01-19 12:15:16,976 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:19,517 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:19,517 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:22,085 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:22,085 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:22,085 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:22,086 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:15:22,086 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:15:22,086 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:15:22,091 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:15:22,091 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:15:22,091 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:15:24,668 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:24,668 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:24,668 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:15:24,668 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:36,035 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:38,597 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:38,597 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:41,135 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:41,135 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:41,135 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:41,136 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:20:41,136 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:20:41,136 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:20:41,138 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:20:41,138 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:20:41,138 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:20:43,695 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:43,695 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:43,695 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:20:43,695 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:01,443 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:04,045 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:04,045 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:06,654 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:06,654 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:06,654 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:06,655 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:23:06,655 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:23:06,655 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:23:06,657 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:23:06,657 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:23:06,657 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:23:09,228 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:09,228 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:09,228 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:23:09,228 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:31,402 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:33,954 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:33,954 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:36,487 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:36,487 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:36,487 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:36,488 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:31:36,488 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:31:36,488 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:31:36,490 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:31:36,490 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:31:36,490 - ATSOptimizer - ERROR - Error during CV optimization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Hamza El Baccouri/nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\share\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\Career-agents\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\Hamza El Baccouri\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-01-19 12:31:39,102 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:39,102 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:39,102 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:31:39,102 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:30,269 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:32,896 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:32,896 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:35,438 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:35,438 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:35,438 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:35,439 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:45:35,439 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:45:35,439 - ATSOptimizer - INFO - Starting CV optimization
+2025-01-19 12:45:37,968 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:37,968 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:37,968 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 12:45:37,968 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:04,843 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:08,215 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:08,215 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:11,202 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:11,202 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:11,202 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:14,140 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:14,140 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:14,140 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 13:12:14,140 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:33,717 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:40,618 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:40,618 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:47,489 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:47,489 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:47,489 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:54,380 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:54,380 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:54,380 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:28:54,380 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:01,282 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:01,282 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:01,282 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:01,282 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:01,282 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:08,192 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:08,192 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:08,192 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:08,192 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:08,192 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 17:29:08,192 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 22:46:36,247 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 22:46:43,722 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 22:46:43,722 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 23:02:01,006 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 23:02:07,982 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 23:02:07,982 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 23:44:03,068 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 23:44:10,347 - ATSOptimizer - INFO - ATS Optimizer initialized successfully
+2025-01-19 23:44:10,347 - ATSOptimizer - INFO - ATS Optimizer initialized successfully

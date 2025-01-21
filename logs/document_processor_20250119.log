@@ -1,0 +1,12 @@
+2025-01-19 22:46:47,714 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-19 22:46:48,005 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-19 22:46:48,006 - DocumentProcessor - ERROR - Error processing document: File not found: C:\Users\Hamza El Baccouri\Career-agents\test_files\Dossier_Technique_Hamza_Baccouri.docx
+2025-01-19 22:46:48,008 - DocumentProcessor - ERROR - Error processing document: File not found: C:\Users\Hamza El Baccouri\Career-agents\test_files\Dossier_Technique_Hamza_Baccouri.docx
+2025-01-19 22:46:48,014 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-19 22:46:48,243 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-19 23:02:12,297 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-19 23:02:12,547 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-19 23:02:12,548 - DocumentProcessor - ERROR - Error processing document: File not found: C:\Users\Hamza El Baccouri\Career-agents\test_files\Dossier_Technique_Hamza_Baccouri.docx
+2025-01-19 23:02:12,551 - DocumentProcessor - ERROR - Error processing document: File not found: C:\Users\Hamza El Baccouri\Career-agents\test_files\Dossier_Technique_Hamza_Baccouri.docx
+2025-01-19 23:02:12,553 - DocumentProcessor - INFO - Processing PDF: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf
+2025-01-19 23:02:12,802 - DocumentProcessor - INFO - Successfully processed document: C:\Users\Hamza El Baccouri\Career-agents\test_files\CV_Data_Scientist_Hamza.pdf

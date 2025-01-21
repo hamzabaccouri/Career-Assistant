@@ -1,0 +1,135 @@
+2025-01-18 16:42:46,506 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:46,506 - ModelManager - INFO - Attempting structured completion with service: anthropic
+2025-01-18 16:42:47,013 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:47,013 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:47,014 - ModelManager - INFO - Attempting completion with service: openai
+2025-01-18 16:42:47,014 - ModelManager - INFO - Attempting completion with service: openai
+2025-01-18 16:42:47,014 - ModelManager - ERROR - Error with openai: OpenAI error
+2025-01-18 16:42:47,014 - ModelManager - ERROR - Error with openai: OpenAI error
+2025-01-18 16:42:47,016 - ModelManager - INFO - Attempting fallback to anthropic
+2025-01-18 16:42:47,016 - ModelManager - INFO - Attempting fallback to anthropic
+2025-01-18 16:42:47,512 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:47,512 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:47,512 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:47,513 - ModelManager - INFO - Attempting completion with service: anthropic
+2025-01-18 16:42:47,513 - ModelManager - INFO - Attempting completion with service: anthropic
+2025-01-18 16:42:47,513 - ModelManager - INFO - Attempting completion with service: anthropic
+2025-01-18 16:42:48,011 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:48,011 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:48,011 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:48,011 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:48,012 - ModelManager - INFO - Attempting completion with service: openai
+2025-01-18 16:42:48,012 - ModelManager - INFO - Attempting completion with service: openai
+2025-01-18 16:42:48,012 - ModelManager - INFO - Attempting completion with service: openai
+2025-01-18 16:42:48,012 - ModelManager - INFO - Attempting completion with service: openai
+2025-01-18 16:42:48,511 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:48,511 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:48,511 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:48,511 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:48,511 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:49,007 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:49,007 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:49,007 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:49,007 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:49,007 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:49,007 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 16:42:49,007 - ModelManager - INFO - Attempting structured completion with service: openai
+2025-01-18 16:42:49,007 - ModelManager - INFO - Attempting structured completion with service: openai
+2025-01-18 16:42:49,007 - ModelManager - INFO - Attempting structured completion with service: openai
+2025-01-18 16:42:49,007 - ModelManager - INFO - Attempting structured completion with service: openai
+2025-01-18 16:42:49,007 - ModelManager - INFO - Attempting structured completion with service: openai
+2025-01-18 16:42:49,007 - ModelManager - INFO - Attempting structured completion with service: openai
+2025-01-18 17:01:41,372 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:01:41,897 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:01:41,897 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:01:42,401 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:01:42,401 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:01:42,401 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:42,816 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:43,358 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:43,358 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:43,951 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:43,951 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:43,951 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:44,488 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:44,488 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:44,488 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:20:44,488 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:22,353 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:22,886 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:22,886 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:23,400 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:23,400 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:23,400 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:23,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:23,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:23,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:23,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,415 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,415 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,415 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,415 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,415 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:24,910 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,425 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,425 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,425 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,425 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,425 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,425 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,425 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,924 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,924 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,924 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,924 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,924 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,924 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,924 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:25,924 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,435 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:26,983 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:27,487 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
+2025-01-18 17:30:28,014 - ModelManager - INFO - Model Manager initialized successfully
